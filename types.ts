@@ -1,8 +1,8 @@
 
 export enum BudgetTier {
-  BRONZE = 'BRONZE',
-  SILVER = 'SILVER',
-  GOLD = 'GOLD'
+  BRONZE = 'BRONZE $100-400',
+  SILVER = 'SILVER $700-1100',
+  GOLD = 'GOLD more than $1100'
 }
 
 export enum TripType {
